@@ -1,0 +1,13 @@
+A told you that E is a knave
+B told you that D is the same as F
+C told you that E is the same as F
+D told you that E is the same as G
+E told you that A is a knave
+F told you that C is a knight
+G told you that C is the same as E
+Can you determine what are A, B, C, D, E, F, and G? 
+There are 2 possible combinations in total
+you will have to input all 2 possible combinations
+
+(1,0,1,1,0,1,1)
+(0,1,0,0,1,0,0)

@@ -1,0 +1,27 @@
+After defeating Dealer 1, the guards take all the Fins you earned back except 100 Fins and escort you to another room. This room is relatively
+confined and, of course, have a roof. A tall man with a cool tall hat sitting behind
+ the table in the middle of the room with a deck of cards in his hands.
+ (Rule is still the same you start with 100 Fins and the goal is to get 1000 Fins)
+
+    ____________
+    |           |
+    |           |
+    |           |
+    |           |
+____|___________|_____
+    ┃　　　　　　 ┃ 　 
+    ┃　　　━　　　┃ 
+    ┃　┳┛　  ┗┳　┃ 
+    ┃　　　　　　 ┃ 
+    ┃　　______　┃ 
+    ┃　　　　　　 ┃ 
+    ┗━┓　　　  ┏━┛ 
+　　　　　　 
+Dealer2: Greetings, I am dealer2.
+Dealer2: The game we are going to play is easy. 
+Dealer2: I am going to shuffle a new deck "randomly", and you are going to guess what the card on top of the deck is.
+Dealer2: You can put at least 30 Fins(no maximum) as stake before I reveal the card.
+Dealer2: If you get it wrong, you lose all the Fins you put in and keep on guessing on that card.
+Dealer2: If you get it right, you get your stake back and win an extra of half the number you put in.
+Dealer2: Are you ready?
+

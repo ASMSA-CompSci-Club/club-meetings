@@ -1,0 +1,31 @@
+
+In year 2270, the world is composed of of a handful of extremely wealthy elites who rule the world. While the rest of people 
+struggle in poverty. For the poor majority, the only way to escape poverty and jump into the higher class is to attend the Gamble Game 
+where they stake their lives to gamble with other participants. It is broadcasted all over the world to entertain
+ the higher class. At the age of 15 the gambling draft is started. It doesn't end until the particapant has graduated
+ high school, and you are unluckily in this year's gambling game -- there are only two results waiting for you:
+ to amass a fortune big enough to by your soul back, or to die. 
+By the way, you can read others mind, and here is what you get by reading the first dealer's mind.
+ (What? You ask why do the dealers think in python (╯°Д°)╯︵ ┻━┻? Well... It is 2270; what else language can they think in?)
+
+title:
+___________.__               ________              ___.   .__             ________                       
+\__    ___/|  |__   ____    /  _____/_____    _____\_ |__ |  |   ____    /  _____/_____    _____   ____  
+  |    |   |  |  \_/ __ \  /   \  ___\__  \  /     \| __ \|  | _/ __ \  /   \  ___\__  \  /     \_/ __ \ 
+  |    |   |   Y  \  ___/  \    \_\  \/ __ \|  Y Y  \ \_\ \  |_\  ___/  \    \_\  \/ __ \|  Y Y  \  ___/ 
+  |____|   |___|  /\___  >  \______  (____  /__|_|  /___  /____/\___  >  \______  (____  /__|_|  /\___  >
+                \/     \/          \/     \/      \/    \/          \/          \/     \/      \/     \/ 
+
+
+Story:
+Greetings Participants! (｡･ω･)ﾉﾞ
+The game is composed of four levels.
+In each, each participant gets 100 Fins to start, and get assigned to a chamber with a dealer for that level.
+The participant loses when he loses all his or her Fins and leaves the game, and the participant can only leave 
+by earning more than 1000 Fins. 
+The game to play entirely depends on the dealer, but difficulty increases as level increases.
+Are your ready for the first level?
+D
+
+
+
